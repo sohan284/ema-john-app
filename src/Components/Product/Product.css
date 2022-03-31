@@ -1,0 +1,25 @@
+.product-container{
+    border: 3px solid gray;
+    width: 300px;
+    height: 515px;
+    position: relative;
+}
+.product-container img{
+    padding: 8px;
+    width: 286px;
+    height: 280px;
+}
+.product-container button{
+    width: 100%;
+    background-color: #995c00;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+}
+.product-container button:hover{
+    background-color: orange;
+
+}
+.product-details{
+    padding-left: 10px;
+}
